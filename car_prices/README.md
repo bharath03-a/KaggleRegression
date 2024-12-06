@@ -1,10 +1,5 @@
 # Car Prices Regression Competition
 
-<p align="center">
-    <img src="https://www.motortrend.com/files/6750cdd9fcf80f0009dbe2fe/000-cheapest-luxury-cars-motortrend-ryan-lugo-design.jpg" alt="Car Icon" width="30%">
-</p>
-
-
 This repository contains the code and resources for the **Car Prices Regression** competition, part of Kaggle's Playground Series (Season 4, Episode 9). The goal of the competition is to predict car prices based on various features using regression models.
 
 ---
