@@ -1,7 +1,7 @@
 # Kaggle Regression Competitions Repository
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regression_example.jpg/1200px-Regression_example.jpg" alt="Regression Example" width="50%">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regression_example.jpg/1200px-Regression_example.jpg](https://www.machinelearningplus.com/wp-content/uploads/2017/09/linear_vs_logistic_regression.jpg)" alt="Regression Example" width="50%">
 </p>
 
 This repository is a collection of solutions, notebooks, and resources for various Kaggle competitions focusing on **regression problems**. It serves as a learning hub for data scientists and machine learning enthusiasts to explore end-to-end solutions for different regression challenges.
@@ -43,7 +43,7 @@ KaggleRegression/
 │   └── README.md                       # README for this competition
 │
 └── README.md                           # Main repository README
-
+```
 ---
 
 ## Competitions Covered
